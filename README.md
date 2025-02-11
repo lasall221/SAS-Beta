@@ -1,5 +1,5 @@
 # SAS-Beta
-Exercice graphique CommonGraph
+Exercice graphique GraphCommons
 # Exercice : Analyse de fuite de données de la SAS Bêta
 
 Bienvenue dans cet exercice d’investigation de données. Vous allez travailler sur une fuite de données fictive de l’entreprise **SAS Bêta**. L’objectif est de découvrir les informations contenues dans ce fichier, de les modéliser, et d’en extraire un rapport visuel et analytique.
@@ -12,7 +12,7 @@ Bienvenue dans cet exercice d’investigation de données. Vous allez travailler
 - **Incident** : fuite de données (« leak »)  
 - **Objectif** : analyser et visualiser ces données pour en tirer des conclusions exploitables
 
-Un fichier (données issues de la fuite) est mis à disposition sur **GitHub**. Les apprenants doivent le récupérer et l’importer dans un outil de visualisation de graphes, **CommonGraph**, afin de structurer les informations, réaliser une analyse et comprendre les liens entre les entités découvertes.
+Un fichier (données issues de la fuite) est mis à disposition sur **GitHub**. Les apprenants doivent le récupérer et l’importer dans un outil de visualisation de graphes, **GraphCommons**, afin de structurer les informations, réaliser une analyse et comprendre les liens entre les entités découvertes.
 
 ---
 
@@ -21,8 +21,8 @@ Un fichier (données issues de la fuite) est mis à disposition sur **GitHub**. 
 1. **Récupération du fichier :**  
    - Clonez le dépôt GitHub (ou téléchargez le fichier) contenant la fuite de données de SAS Bêta.
 
-2. **Importation dans CommonGraph :**  
-   - Ouvrez CommonGraph.  
+2. **Importation dans GraphCommons :**  
+   - Ouvrez GraphCommons.  
    - Importez le fichier dans l’interface.  
    - Vérifiez que les données s’affichent et se structurent sous forme de nœuds et de liens.
 
@@ -65,4 +65,4 @@ Un fichier (données issues de la fuite) est mis à disposition sur **GitHub**. 
 ---
 
 **Bon courage !**  
-N’hésitez pas à poser des questions ou demander de l’aide en cas de difficulté avec CommonGraph ou l’interprétation des données.
+N’hésitez pas à poser des questions ou demander de l’aide en cas de difficulté avec GraphCommons ou l’interprétation des données.
